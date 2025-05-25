@@ -1,0 +1,9 @@
+datasets
+google.colab
+nltk
+nltk.tokenize
+pandas
+torch
+transformers
+trl
+unsloth
