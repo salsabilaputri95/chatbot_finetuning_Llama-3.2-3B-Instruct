@@ -29,9 +29,3 @@ Notebook ini berfokus pada:
 3. Jalankan notebook:
    Buka file `.ipynb` dengan Jupyter Notebook atau VSCode dan jalankan sel-selnya.
 
-
-## 👩‍💻 Pengembang
-
-Salsabila Putri  
-Universitas Negeri Makassar  
-Email: [salsabila@email.com](mailto:salsabila@email.com)
